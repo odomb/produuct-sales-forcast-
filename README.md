@@ -120,6 +120,28 @@ Transformation: Scaling (Standardization/Normalization), Encoding (One-Hot/Label
 Train-test split for objective evaluation
 
 Model Selection
+📈 Final Model Performance
+🔹 Baseline Model: Linear Regression
+
+MAE: 3360.82
+
+MSE: 21,924,104.88
+
+RMSE: 4682.32
+
+R²: 0.94
+
+🔹 Complex Model: Random Forest Regressor
+
+MAE: 2036.04
+
+MSE: 8,740,456.19
+
+RMSE: 2950.26
+
+R²: 0.98
+
+✅ The Random Forest Regressor significantly outperformed the baseline linear regression model, reducing error by ~40% and achieving an R² of 0.98, meaning it explains almost all the variance in sales data.
 
 Baseline: Linear Regression
 
