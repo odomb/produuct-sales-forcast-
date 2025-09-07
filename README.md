@@ -1,4 +1,4 @@
-# produuct-sales-forcast-
+# product-sales-forcast-
 End-to-end product sales forecasting project using EDA, hypothesis testing, ML models, and Tableau dashboards
 📊 Product Sales Forecasting
 1. Problem Statement
